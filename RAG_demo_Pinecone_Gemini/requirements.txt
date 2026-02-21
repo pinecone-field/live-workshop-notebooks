@@ -12,7 +12,7 @@ docstring_parser==0.16
 executing==2.0.1
 google-api-core==2.19.1
 google-auth==2.31.0
-google-cloud-aiplatform==1.57.0
+google-cloud-aiplatform==1.133.0
 google-cloud-bigquery==3.25.0
 google-cloud-core==2.4.1
 google-cloud-resource-manager==1.12.3
